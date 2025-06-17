@@ -1,0 +1,8 @@
+# Git
+.git/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
